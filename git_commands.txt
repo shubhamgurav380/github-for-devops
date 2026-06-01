@@ -1,0 +1,15 @@
+ git status                                                                                                      
+   git add testing.py                                                                                              
+   git status                                                                                                      
+   5 git commint -m "Added testing file"                                                                             
+   5 git commint -m "Added testing file"                                                                             
+   5 git commint -m "Added testing file"                                                                             
+   5 git commint -m "Added testing file"                                                                             
+   6 git commit -m "Added testing file"                                                                              
+   7 git config --global user.name "Shubham Gurav"                                                                   
+   8 git config --global user.email "shubhamgurav380@gmail.com"                                                      
+   9 git config --global --list                                                                                      
+  10 clear                                                                                                           
+ git add .                                                                                                       
+  12 git commit -m "Added testing file"                                                                              
+  13 git log 
