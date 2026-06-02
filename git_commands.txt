@@ -13,3 +13,8 @@
  git add .                                                                                                       
   12 git commit -m "Added testing file"                                                                              
   13 git log 
+
+  git push -u origin main
+  git remote -v
+  git remote set-url origin https://github.com/shubhamgurav380/github-for-devops.git
+  git commit -m "Adding finally"
